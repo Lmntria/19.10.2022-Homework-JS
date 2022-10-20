@@ -1,0 +1,14 @@
+.box{
+  position: relative;
+  width: 700px;
+  height: 400px;
+  background-color: black;
+  margin: 5% auto;
+}
+.ball{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  border-radius: 50%;
+}
